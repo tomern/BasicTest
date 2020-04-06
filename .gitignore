@@ -1,9 +1,5 @@
-packages/
-BasicTest/bin/
-bin/Debug
 obj/Debug
 BasicTest/obj/
-BasicTest\bin\Debug
 BasicTest\obj\Debug
 .nuget/
 .vs/
